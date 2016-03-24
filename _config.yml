@@ -1,0 +1,16 @@
+name: ksbckr
+description: sudo apt-get install coffee
+meta_description: "Personal blog, writing about tech stuff."
+
+markdown: kramdown
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+permalink: none
+domain_name: 'http://kaisoerenbecker.de'
+gems: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'http://kaisoerenbecker.de'
+author:         'Kai Sören Becker'
