@@ -14,3 +14,5 @@ gems: [jekyll-paginate]
 # Details for the RSS feed generator
 url:            'http://kaisoerenbecker.de'
 author:         'Kai Sören Becker'
+
+exclude: ["README.md"]
