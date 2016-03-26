@@ -15,6 +15,6 @@ The interface is quite simple and only allows you to resize the capturing frame 
 
 Performance is really good and the output can be viewed without any problems. The tool does exactly what it is supposed to do and nothing more. I captured the obove screen for a few seconds, just to show you the output:
 
-![LICEcap demo]({{ base.url }}/assets/images/post/licecap_demo.gif)
+![LICEcap demo]({{ base.url }}/assets/images/post/licecapdemo.gif)
 
 [lc]: http://www.cockos.com/licecap/
